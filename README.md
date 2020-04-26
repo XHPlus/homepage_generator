@@ -14,5 +14,6 @@ hugo  server --bind "0.0.0.0" -p port
 hugo
 cd public
 git add *
+git commit -m "xxxx"
 git push origin master
 ```

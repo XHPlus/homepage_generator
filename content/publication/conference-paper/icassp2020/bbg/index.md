@@ -1,6 +1,6 @@
 ---
 title: "Balanced Binary Neural Networks with Gated Residual"
-authors: [Mingzhu Shen and Xianglong Liu and <b>Ruihao Gong</b> and Kai Han]
+authors: [Mingzhu Shen, Xianglong Liu, <b>Ruihao Gong</b>, Kai Han]
 date: "2020-05-04T00:00:00Z"
 doi: ""
 weight: 3

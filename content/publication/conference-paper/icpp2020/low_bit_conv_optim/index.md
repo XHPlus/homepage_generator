@@ -1,12 +1,12 @@
 ---
-title: "DMS: Differentiable Dimension Search for Binary Neural Networks"
-authors: [Yuhang Li, <b>Ruihao Gong</b>, Fengwei Yu, Xin Dong, Xianglong Liu]
-date: "2020-04-26T00:00:00Z"
+title: "Extremely Low-bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures"
+authors: [Qingchang Han, Yongmin Hu, Fengwei Yu, Hailong Yang, Bing Liu, Peng Hu, <b>Ruihao Gong</b>, Yanfei Wang, Rui Wang, Zhongzhi Luan, Depei Qian]
+date: "2020-05-08T00:00:00Z"
 doi: ""
-weight: 2
+weight: 3
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-26T00:00:00Z"
+publishDate: "2020-05-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,8 +15,8 @@ publishDate: "2020-04-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ICLR 2020 NAS workshop
-publication_short: ICLR 2020 NAS workshop
+publication: ICPP 2020
+publication_short: ICPP 2020
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -30,8 +30,8 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_code: https://github.com/yhhhli/DMS_for_BNN
-pdf: DMS.pdf
+pdf: icpp20-10.pdf
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3404397.3404407
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

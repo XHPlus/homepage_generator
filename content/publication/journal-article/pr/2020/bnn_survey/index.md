@@ -1,6 +1,6 @@
 ---
 title: "Binary neural networks: A survey"
-authors: [Haotong Qin and <b>Ruihao Gong</b> and Xianglong Liu and Xiao Bai and Jingkuan Song and Nicu Sebe]
+authors: [Haotong Qin, <b>Ruihao Gong</b>, Xianglong Liu, Xiao Bai, Jingkuan Song, Nicu Sebe]
 date: "2020-02-21T00:00:00Z"
 doi: ""
 weight: 2

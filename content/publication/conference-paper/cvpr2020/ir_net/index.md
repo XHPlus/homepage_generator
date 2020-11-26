@@ -32,6 +32,8 @@ featured: true
 #   url: http://example.org
 pdf: IR_Net.pdf
 url_code: https://github.com/htqin/IR-Net
+url_video: https://www.youtube.com/watch?v=EsbwQTDWeXA
+external_link: https://openaccess.thecvf.com/content_CVPR_2020/html/Qin_Forward_and_Backward_Information_Retention_for_Accurate_Binary_Neural_Networks_CVPR_2020_paper.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

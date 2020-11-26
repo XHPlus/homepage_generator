@@ -32,6 +32,7 @@ featured: true
 #   url: http://example.org
 pdf: ebs.pdf
 url_pdf: https://arxiv.org/pdf/2003.07577.pdf
+external_link: https://arxiv.org/abs/2003.07577
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

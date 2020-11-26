@@ -30,8 +30,10 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-pdf: icpp20-10.pdf
+pdf: low_bit_conv_optim.pdf
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3404397.3404407
+url_video: https://www.youtube.com/watch?v=aC--JOyqRPs
+external_link: https://dl.acm.org/doi/abs/10.1145/3404397.3404407
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

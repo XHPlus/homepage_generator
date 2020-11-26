@@ -31,6 +31,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/abs/1909.12117
+url_video: https://ieeetv.ieee.org/ondemand/ieee-icassp-2020-virtual-conference-may-2020/6667/balanced-binary-neural-networks-with-gated-residual
+external_link: https://ieeexplore.ieee.org/document/9054599
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

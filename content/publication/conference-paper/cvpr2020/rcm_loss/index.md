@@ -31,6 +31,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 pdf: RCM_Loss.pdf
+url_video: https://www.youtube.com/watch?v=10VZJKRNlrU
+external_link: https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Rotation_Consistent_Margin_Loss_for_Efficient_Low-Bit_Face_Recognition_CVPR_2020_paper.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

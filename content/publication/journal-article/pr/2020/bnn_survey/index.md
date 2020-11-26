@@ -32,6 +32,7 @@ featured: false
 #   url: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856
 pdf: BNN_Survey.pdf
+external_link: https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

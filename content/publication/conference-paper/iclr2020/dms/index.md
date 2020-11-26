@@ -30,8 +30,9 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_code: https://github.com/yhhhli/DMS_for_BNN
 pdf: DMS.pdf
+url_video: https://slideslive.com/38926386/dms-differentiable-dimension-search-for-binary-neural-networks
+external_link: https://sites.google.com/view/nas2020/accepted-papers
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

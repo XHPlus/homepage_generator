@@ -32,6 +32,8 @@ featured: true
 #   url: http://example.org
 pdf: Int8_Training.pdf
 url_pdf: https://arxiv.org/abs/1912.12607
+url_video: https://www.youtube.com/watch?v=vVORsddQusk
+external_link: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Towards_Unified_INT8_Training_for_Convolutional_Neural_Network_CVPR_2020_paper.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

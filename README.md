@@ -15,5 +15,12 @@ hugo
 cd public
 git add *
 git commit -m "xxxx"
+git push origin HEAD:master
+```
+
+### update submodule
+```
+git add public
+git commit -m "xxxx"
 git push origin master
 ```

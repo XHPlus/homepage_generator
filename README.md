@@ -1,7 +1,7 @@
 # homepage_generator
 
 ### requirements
-- hugo==0.69 (with extended version)
+- hugo==0.78.2 (with extended version)
 
 
 ### locally run
